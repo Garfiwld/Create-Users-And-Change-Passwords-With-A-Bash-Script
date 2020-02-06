@@ -1,7 +1,6 @@
-nurealam
-nayeem
-mrahman
-farid
-rubi
-sankar
-samo
+nurealam:pass1
+nayeem:pass2
+mrahman:pass3
+farid:pass4
+rubi:pass5
+sankar:pass6
